@@ -7,4 +7,4 @@ https://public.tableau.com/app/profile/dipika.jothinathan/vizzes
 -> Tableau Prep Builder was used for data cleanup and joins
 
 2. Soccer vs American Footbal Dashboard:
--> Dashboard to analyze and predict the interest indexes in Football and Soccer 
+-> Dashboard to analyze and predict the interest indexes in Football vs Soccer 

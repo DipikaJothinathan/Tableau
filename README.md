@@ -1,7 +1,7 @@
-1. Infotekguide Dashboard: Interactive dashboard to analyze trends and factors influencing student enrollment for a training provider firm. Tableau Prep Builder was used for data cleanup and joins
+**Infotekguide Dashboard** </br>
+Interactive dashboard to track and analyze student enrollment, job placements, and certification achievements over time for a training provider. The dashboard provides insights into enrollment trends, graduation rates, job distribution across different roles, and the gender breakdown of participants. It serves as a tool for evaluating program effectiveness and career outcomes.
 
-2. Soccer vs American Football Dashboard:Dashboard to analyze and predict the overall and US state-wise interest indexes on American Football vs Soccer 
+**AF vs Soccer Dashboard** </br>
+Dashboard to analyze and compare the popularity of American Football and Soccer over time and across different U.S. states. The dashboard helps identify trends in game interests from 2004 to October 2023, providing insights into seasonality, geographical preferences, and the overall engagement with both sports.
 
-Please check out my tableau public link for featured vizzes
-
-https://public.tableau.com/app/profile/dipika.jothinathan/vizzes
+**Tableau public link:** https://public.tableau.com/app/profile/dipika.jothinathan/vizzes
